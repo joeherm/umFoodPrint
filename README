@@ -1,3 +1,5 @@
-Basic Python scipt for generating a Twilio XML file based on a UM Dining Hall Menu.
+Basic Python scipt for generating a Twilio XML structure based on a UM Dining Hall Menu.
 It's a short example of how to use Twilio to fetch Internet data and repurpose it into the Twilio XML structure.
 The config file is the configuration needed to make the project work with Google App Engine.
+Putting the script on any Python web server generates XML of a given menu.  See example at:
+http://umfoodprint.appspot.com/
